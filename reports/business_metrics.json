@@ -1,0 +1,16 @@
+{
+  "best_model": "xgboost",
+  "threshold": 0.42,
+  "offer_cost": 50,
+  "churn_cost": 500,
+  "offer_success": 0.5,
+  "test_cost_no_action": 187000,
+  "test_cost_threshold_0.5": 141250,
+  "test_cost_tuned": 141500,
+  "test_savings_vs_no_action": 45500,
+  "tuned_roc_auc": 0.8469955307551216,
+  "tuned_pr_auc": 0.6629332677710378,
+  "tuned_precision": 0.47575757575757577,
+  "tuned_recall": 0.839572192513369,
+  "tuned_f1": 0.6073500967117988
+}
